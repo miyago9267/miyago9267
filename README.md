@@ -3,9 +3,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miyago9267&theme=gruvbox)](https://github.com/miyaago9267/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyago9267&layout=compact&theme=gruvbox)](https://github.com/miyago9267/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=CSY54&theme=nord&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=miyago9267&theme=nord&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miyago9267&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%202%20mins-blue)
