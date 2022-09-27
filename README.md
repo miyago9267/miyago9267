@@ -1,4 +1,4 @@
-## H3ll0 W0R1D, MYG here owo 👋
+### H3ll0 W0R1D, MYG here owo 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=miyago9267&theme=nord&show_icons=true)
 
