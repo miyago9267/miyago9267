@@ -3,7 +3,9 @@
 ![](https://raw.githubusercontent.com/miyago9267/miyago9267/gh-pages/github-contribution-grid-snake-dark.svg)
 
 **$whoami**
-> Miyago9267 aka 水源宮語
+```
+Miyago9267 aka 水源宮語
+```
 
 **$cat about_me**
 ```
