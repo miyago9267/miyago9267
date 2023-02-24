@@ -2,11 +2,15 @@ name: S For Snake
 
 on:
   schedule:
-    - cron: '0/10 * * * *'
+    - cron: '0 */12 * * *'
+  push:
+    branches:
+    - master
 
 jobs:
   update-snake:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
         - name: generate snake
           uses: Platane/snk/svg-only@v2
