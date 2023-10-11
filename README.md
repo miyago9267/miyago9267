@@ -2,12 +2,12 @@
 
 ![](https://raw.githubusercontent.com/miyago9267/miyago9267/gh-pages/github-contribution-grid-snake-dark.svg)
 
-<font color=#FF9F3F>**$whoami**</font>
+<font color="#FF9F3F">**$whoami**</font>
 ```
 Miyago9267 aka 水源宮語
 ```
 
-<font color=#FF9F3F>**$cat about_me**</font
+<font color=#FF9F3F>**$cat about_me**</font>
 ```
 A student who just a beginner at coding and still learning.
 ```
@@ -48,4 +48,4 @@ A student who just a beginner at coding and still learning.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miyago9267&theme=nord&layout=compact&card_width=445)
 
- Last Updated on 230224 23:02:18 UTC
+ Last Updated on 101123 15:13:00 UTC+8
