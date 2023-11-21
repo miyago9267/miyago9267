@@ -13,8 +13,11 @@ A student who just a beginner at coding and still learning.
 ```
 
 <font color=#FF9F3F>**$cat experience**</font>
-- 2022 MingChan University Google Devlopement Student Club - Core Team
 - 25th National FengShan High School Computer and Information Club - Leader
+- 2022 MingChan University Google Devlopement Student Club - Core Team
+- 2022 PCPC Bronze Metal
+- 2022 ICPC Taoyuan contest participate
+- 2023 PUPU Golden Metal
 
 <font color=#FF9F3F>**$cat skill**</font>  
 - Literature
