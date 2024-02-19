@@ -2,24 +2,28 @@ name: Personal Profile Snake Game
 
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '0 */24 * * *'
+
+  workflow_dispatch:
+  
   push:
     branches:
     - master
 
 jobs:
   update-snake:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
         - name: generate snake
-          uses: Platane/snk@v3
+          uses: Platane/snk/svg-only@v3
           with:
             github_user_name: ${{ github.repository_owner }}
             outputs: |
               dist/github-snake.svg
               dist/github-snake-dark.svg?palette=github-dark
-              dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
               
         - name: push snake
           uses: crazy-max/ghaction-github-pages@v4
