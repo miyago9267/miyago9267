@@ -2,7 +2,7 @@ name: Personal Profile Snake Game
 
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '5 * * * *'
 
   workflow_dispatch:
   
@@ -18,7 +18,7 @@ jobs:
     timeout-minutes: 5
     steps:
         - name: generate snake
-          uses: Platane/snk/svg-only@v3
+          uses: Platane/snk@v3
           with:
             github_user_name: ${{ github.repository_owner }}
             outputs: |
