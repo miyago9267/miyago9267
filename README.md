@@ -1,6 +1,6 @@
 ## Hello World, Miyago here owo 👋
 
-![](https://raw.githubusercontent.com/miyago9267/miyago9267/gh-pages/github-snake-dark.svg)
+![](https://raw.githubusercontent.com/miyago9267/miyago9267/snake/github-snake-dark.svg)
 
 <font color="#FF9F3F">**$whoami**</font>
 ```
