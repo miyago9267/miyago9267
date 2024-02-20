@@ -2,7 +2,7 @@ name: Personal Profile Snake Game
 
 on:
   schedule:
-    - cron: '5 * * * *'
+    - cron: '0 */24 * * *'
 
   workflow_dispatch:
   
@@ -28,7 +28,7 @@ jobs:
         - name: push snake
           uses: crazy-max/ghaction-github-pages@v4
           with: 
-           target_branch: gh-pages
+           target_branch: snake
            build_dir: public
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
