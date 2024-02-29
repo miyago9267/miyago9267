@@ -5,11 +5,13 @@
 <font color="#FF9F3F">**$whoami**</font>
 ```
 Miyago9267 aka 水源宮語
+JUST MONIKA
 ```
 
 <font color=#FF9F3F>**$cat about_me**</font>
 ```
 A student who just a beginner at coding and still learning.
+Welcome for any suggestions or advice on my project and code.
 ```
 
 <font color=#FF9F3F>**$cat experience**</font>
@@ -21,15 +23,15 @@ A student who just a beginner at coding and still learning.
 
 <font color=#FF9F3F>**$cat skill**</font>  
 - Literature
-    - Short story
-    - Article
-    - Poem
+    - Novel
+    - Prose
 - Computer Science
     - Algorithm
-    - Web Devlopement
-    - Security
+    - Web Devlopement (Learning Curently)
+    - MIS & SRE
 - Art
-    - Paint
+    - Paint (Learning Curently)
+    - Compose (Learning Curently)
 
 <font color=#FF9F3F>**$cat i_use**</font>
 
@@ -51,4 +53,4 @@ A student who just a beginner at coding and still learning.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miyago9267&theme=nord&layout=compact&card_width=445)
 
- Last Updated on 101123 15:13:00 UTC+8
+ Last Updated on 02-29-24 16:30:00 UTC+8
