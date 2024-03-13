@@ -1,4 +1,4 @@
-## Hello World, Miyago here owo 👋
+## Hello World, Miyago here 👋
 
 ![](https://raw.githubusercontent.com/miyago9267/miyago9267/snake/github-snake-dark.svg)
 
@@ -18,7 +18,7 @@ Welcome for any suggestions or advice on my project and code.
 - 25th National FengShan High School Computer and Information Club - Leader
 - 2022 MingChan University Google Devlopement Student Club - Core Team
 - 2022 PCPC Bronze Metal
-- 2022 ICPC Taoyuan contest participate
+- 2022 ICPC Taoyuan Regional contest participate
 - 2023 PUPU Golden Metal
 
 <font color=#FF9F3F>**$cat skill**</font>  
