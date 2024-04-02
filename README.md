@@ -12,6 +12,10 @@ JUST MONIKA
 ```
 A student who just a beginner at coding and still learning.
 Welcome for any suggestions or advice on my project and code.
+
+一個還在新手村的學生
+歡迎各方前輩不吝發issue指教我的屎山爛扣
+這會幫助我很多的
 ```
 
 <font color=#FF9F3F>**$cat experience**</font>
@@ -22,16 +26,16 @@ Welcome for any suggestions or advice on my project and code.
 - 2023 PUPU Golden Metal
 
 <font color=#FF9F3F>**$cat skill**</font>  
-- Literature
-    - Novel
-    - Prose
+- 文學 Literature
+    - 小說 Novel 
+    - 散文 Prose
 - Computer Science
-    - Algorithm
-    - Web Devlopement (Learning Curently)
-    - MIS & SRE
+    - 演算法 Algorithm
+    - 網頁開發 Web Devlopement (Learning Curently)
+    - 網管&SRE MIS & SRE
 - Art
-    - Paint (Learning Curently)
-    - Compose (Learning Curently)
+    - 繪圖 Paint (Learning Curently)
+    - 編曲 Compose (Learning Curently)
 
 <font color=#FF9F3F>**$cat i_use**</font>
 
