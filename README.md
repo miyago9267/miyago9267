@@ -29,10 +29,12 @@ Welcome for any suggestions or advice on my project and code.
 - 文學 Literature
     - 小說 Novel 
     - 散文 Prose
+    - 穎秀劇本 Script
 - Computer Science
     - 演算法 Algorithm
     - 網頁開發 Web Devlopement (Learning Curently)
-    - 網管&SRE MIS & SRE
+    - 資訊安全 Cyber Security
+    - DevOps
 - Art
     - 繪圖 Paint (Learning Curently)
     - 編曲 Compose (Learning Curently)
@@ -49,7 +51,8 @@ Welcome for any suggestions or advice on my project and code.
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave)&nbsp;![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi)
 
 ##### **AI**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/900px-ChatGPT_logo.svg.png" width=40/>&nbsp;<img src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.74.8955/1677170273974/Microsoft.VisualStudio.Services.Icons.Default" width=40/>
+
+No, i hate AI.
 
 <font color=#FF9F3F>**$cat my_stat**</font>
 
@@ -57,4 +60,4 @@ Welcome for any suggestions or advice on my project and code.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miyago9267&theme=nord&layout=compact&card_width=445)
 
- Last Updated on 02-29-24 16:30:00 UTC+8
+ Last Updated on 10-14-25 16:30:00 UTC+8
