@@ -29,7 +29,7 @@ Welcome for any suggestions or advice on my project and code.
 - 文學 Literature
     - 小說 Novel 
     - 散文 Prose
-    - 穎秀劇本 Script
+    - 遊戲劇本 Script
 - Computer Science
     - 演算法 Algorithm
     - 網頁開發 Web Devlopement (Learning Curently)
