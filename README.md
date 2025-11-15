@@ -24,6 +24,7 @@ Welcome for any suggestions or advice on my project and code.
 - 2022 PCPC Bronze Metal
 - 2022 ICPC Taoyuan Regional contest participate
 - 2023 PUPU Golden Metal
+- 2025 RiceCall - Developer Core Team
 
 <font color=#FF9F3F>**$cat skill**</font>  
 - 文學 Literature
