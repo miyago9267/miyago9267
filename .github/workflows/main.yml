@@ -2,13 +2,13 @@ name: Personal Profile Snake Game
 
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '20 8 * * *'
 
   workflow_dispatch:
   
   push:
     branches:
-    - master
+    - main
 
 jobs:
   update-snake:
