@@ -68,8 +68,8 @@ Actually, I love AI now. It's my best companion for coding (except Monika).
 
 ## $cat my_stat
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miyago9267&theme=nord&show_icons=true)
+![GitHub Stats](https://github-readme-stats-miyago9267s-projects.vercel.app/api?username=miyago9267&theme=nord&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miyago9267&theme=nord&layout=compact&card_width=445)
+![Top Languages](https://github-readme-stats-miyago9267s-projects.vercel.app/api/top-langs/?username=miyago9267&theme=nord&layout=compact&card_width=445)
 
  Last Updated on 01-28-26 13:40:00 UTC+8
