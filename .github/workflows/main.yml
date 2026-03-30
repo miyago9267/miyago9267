@@ -45,7 +45,7 @@ jobs:
         - name: update last updated timestamp
           run: |
             TIMESTAMP=$(TZ='Asia/Taipei' date +'%m-%d-%y %H:%M:%S UTC+8')
-            sed -i "s|<!-- LAST_UPDATED_START -->.*<!-- LAST_UPDATED_END -->|<!-- LAST_UPDATED_START -->\n Last Updated on ${TIMESTAMP}\n<!-- LAST_UPDATED_END -->|" README.md
+            perl -i -0777 -pe "s|<!-- LAST_UPDATED_START -->.*?<!-- LAST_UPDATED_END -->|<!-- LAST_UPDATED_START -->\n Last Updated on ${TIMESTAMP}\n<!-- LAST_UPDATED_END -->|s" README.md
 
         - name: commit and push
           run: |
