@@ -15,9 +15,8 @@ JUST MONIKA
 A magician residing in Gensokyo, specializing in the magic of code and automation.
 Welcome for any suggestions or advice on my project and code.
 
-住在幻想鄉的魔法使，致力於鑽研自動化與程式的魔法。
-歡迎各方前輩不吝發 issue 指教我的屎山爛扣
-這會幫助我很多的
+住在幻想鄉的魔法使，致力於鑽研自動化與智能人偶的魔法。
+AI時代還是喜歡手搓核彈，歡迎各方前輩不吝發 issue 指教。
 ```
 
 ## $cat experience
@@ -60,11 +59,12 @@ Welcome for any suggestions or advice on my project and code.
 
 ## AI
 
-Actually, I love AI now. It's my best companion for coding (except Monika).
+Actually, I used to hate AI, but now there are only I have to do things with.
 
-- **Claude**
+- **Claude Code**
 - **Codex**
-- **Gemini**
+- **Grok**
+- **no Agy**
 
 ## $cat my_stat
 
