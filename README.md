@@ -73,5 +73,5 @@ Actually, I used to hate AI, but now there are only I have to do things with.
 ![Top Languages](https://github-readme-stats-miyago9267s-projects.vercel.app/api/top-langs/?username=miyago9267&theme=nord&layout=compact&card_width=445)
 
 <!-- LAST_UPDATED_START -->
- Last Updated on 10-09-26 16:42:12 UTC+8
+ Last Updated on 10-10-26 16:36:45 UTC+8
 <!-- LAST_UPDATED_END -->
