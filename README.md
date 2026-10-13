@@ -47,11 +47,11 @@ AI時代還是喜歡手搓核彈，歡迎各方前輩不吝發 issue 指教。
 
 ### Language & Frameworks
 
-![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go&logoColor=00ADD8)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;![Vue](https://img.shields.io/badge/-Vue-05122A?style=for-the-badge&logo=vue.js)&nbsp;![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=for-the-badge&logo=nuxt.js)&nbsp;![Bun](https://img.shields.io/badge/-Bun-05122A?style=for-the-badge&logo=bun)&nbsp;![Hono](https://img.shields.io/badge/-Hono-05122A?style=for-the-badge&logo=hono&logoColor=E36002)
+![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go&logoColor=00ADD8)&nbsp;![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust&logoColor=DEA584)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;![Vue](https://img.shields.io/badge/-Vue-05122A?style=for-the-badge&logo=vue.js)&nbsp;![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=for-the-badge&logo=nuxt.js)&nbsp;![Bun](https://img.shields.io/badge/-Bun-05122A?style=for-the-badge&logo=bun)&nbsp;![Hono](https://img.shields.io/badge/-Hono-05122A?style=for-the-badge&logo=hono&logoColor=E36002)
 
 ### Just for fun
 
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust&logoColor=DEA584)&nbsp;![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)
 
 ### Tools
 
@@ -59,7 +59,7 @@ AI時代還是喜歡手搓核彈，歡迎各方前輩不吝發 issue 指教。
 
 ### Browsers
 
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave)&nbsp;![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi)
+![Arc](https://img.shields.io/badge/Arc-FCBFBD?style=for-the-badge&logo=arc&logoColor=000000)&nbsp;![Dia](https://img.shields.io/badge/Dia-000000?style=for-the-badge)
 
 ## $cat ai
 
