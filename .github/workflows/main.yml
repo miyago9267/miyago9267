@@ -32,25 +32,3 @@ jobs:
            build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  update-timestamp:
-    if: github.event.head_commit.author.name != 'github-actions[bot]'
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-        - uses: actions/checkout@v4
-
-        - name: update last updated timestamp
-          run: |
-            TIMESTAMP=$(TZ='Asia/Taipei' date +'%m-%d-%y %H:%M:%S UTC+8')
-            perl -i -0777 -pe "s|<!-- LAST_UPDATED_START -->.*?<!-- LAST_UPDATED_END -->|<!-- LAST_UPDATED_START -->\n Last Updated on ${TIMESTAMP}\n<!-- LAST_UPDATED_END -->|s" README.md
-
-        - name: commit and push
-          run: |
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git diff --quiet README.md || (git add README.md && git commit -m "chore: update last updated timestamp" && git push)
-              
-      

@@ -12,8 +12,8 @@ JUST MONIKA
 ## $cat about_me
 
 ```text
-A magician residing in Gensokyo, specializing in the magic of code and automation.
-Welcome for any suggestions or advice on my project and code.
+A magician residing in Gensokyo, studying the dark arts of automation and sentient dolls.
+Still hand-crafting nukes in the age of AI. Issues and roasts from senpais are welcome.
 
 住在幻想鄉的魔法使，致力於鑽研自動化與智能人偶的魔法。
 AI時代還是喜歡手搓核彈，歡迎各方前輩不吝發 issue 指教。
@@ -22,10 +22,10 @@ AI時代還是喜歡手搓核彈，歡迎各方前輩不吝發 issue 指教。
 ## $cat experience
 
 - 25th National FengShan High School Computer and Information Club - Leader
-- 2022 MingChan University Google Devlopement Student Club - Core Team
+- 2022 Ming Chuan University Google Developer Student Club - Core Team
 - 2022 PCPC Bronze Medal
-- 2022 ICPC Taoyuan Regional contest participate
-- 2023 PUPU Golden Medal
+- 2022 ICPC Taoyuan Regional Contest - Participant
+- 2023 PUPC Gold Medal
 - 2025 RiceCall - Developer Core Team
 
 ## $cat skill
@@ -35,10 +35,10 @@ AI時代還是喜歡手搓核彈，歡迎各方前輩不吝發 issue 指教。
   - 散文 Prose
   - 遊戲劇本 Script
 - Computer Science
+  - Infra & DevOps / SRE
+  - 網頁開發 Web Development
   - 演算法 Algorithm
-  - 網頁開發 Web Development (Learning Currently)
   - 資訊安全 Cyber Security
-  - DevOps & SRE
 - Art
   - 繪圖 Paint (Learning Currently)
   - 編曲 Compose (Learning Currently)
@@ -47,7 +47,11 @@ AI時代還是喜歡手搓核彈，歡迎各方前輩不吝發 issue 指教。
 
 ### Language & Frameworks
 
-![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go&logoColor=00ADD8)&nbsp;![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust&logoColor=DEA584)&nbsp;![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp;![Vue](https://img.shields.io/badge/-Vue-05122A?style=for-the-badge&cite&logo=vue.js)&nbsp;![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=for-the-badge&logo=nuxt.js)
+![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go&logoColor=00ADD8)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;![Vue](https://img.shields.io/badge/-Vue-05122A?style=for-the-badge&logo=vue.js)&nbsp;![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=for-the-badge&logo=nuxt.js)&nbsp;![Bun](https://img.shields.io/badge/-Bun-05122A?style=for-the-badge&logo=bun)&nbsp;![Hono](https://img.shields.io/badge/-Hono-05122A?style=for-the-badge&logo=hono&logoColor=E36002)
+
+### Just for fun
+
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust&logoColor=DEA584)&nbsp;![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)
 
 ### Tools
 
@@ -57,21 +61,19 @@ AI時代還是喜歡手搓核彈，歡迎各方前輩不吝發 issue 指教。
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave)&nbsp;![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi)
 
-## AI
+## $cat ai
 
-Actually, I used to hate AI, but now there are only I have to do things with.
+```text
+I used to hate AI. Now I can't get anything done without it.
+```
 
 - **Claude Code**
 - **Codex**
 - **Grok**
-- **no Agy**
+- ~~Antigravity~~
 
 ## $cat my_stat
 
 ![GitHub Stats](https://github-readme-stats-miyago9267s-projects.vercel.app/api?username=miyago9267&theme=nord&show_icons=true)
 
 ![Top Languages](https://github-readme-stats-miyago9267s-projects.vercel.app/api/top-langs/?username=miyago9267&theme=nord&layout=compact&card_width=445)
-
-<!-- LAST_UPDATED_START -->
- Last Updated on 10-12-26 16:56:49 UTC+8
-<!-- LAST_UPDATED_END -->
